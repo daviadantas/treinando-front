@@ -1,0 +1,55 @@
+*{
+    align-items: center;
+    width: 700px;
+    
+}
+
+.cabecalho{
+    text-align: center;
+
+}
+
+.container{
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.espaco{
+    margin: 10px;
+}
+
+.informações-pessoais{
+    background-color: rgb(255, 0, 0); 
+    
+    
+}
+
+.rotina{
+    background-color: rgb(0, 17, 255); 
+    
+    
+    
+}
+
+.hobbies{
+    background-color: rgb(60, 255, 0);
+    
+    
+    
+}
+
+
+.bandas{
+    background-color: rgb(208, 255, 0);
+    
+    
+    
+}
+
+
+.viagem{
+    
+    background-color: rgb(255, 0, 212);
+    
+}
