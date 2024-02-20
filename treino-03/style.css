@@ -1,0 +1,20 @@
+.cabecalho{
+    background-color: rgb(250, 215, 215);
+    text-align: center;
+    width: 80vw;
+    margin: 0 auto;
+}
+
+.container{
+    background-color: blue;
+    width: 90vw;
+    margin: 30px auto;
+    height: 750px;
+}
+.card{
+    width: 20vw;
+    margin: 1vw 1.25vw;
+    height: 100px;
+    float: left;
+    background-color: brown;
+}
